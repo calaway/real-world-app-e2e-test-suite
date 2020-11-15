@@ -6,6 +6,7 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
+    "@testing-library/cypress": "^7.0.1",
     "cypress": "^5.6.0"
   }
 }
