@@ -1,0 +1,8 @@
+{
+  "name": "real-world-app-e2e-test-suite",
+  "version": "1.0.0",
+  "description": "End-to-end acceptance test suite for any Real World App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
