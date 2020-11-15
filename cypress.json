@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://demo.realworld.io"
+  "baseUrl": "https://demo.realworld.io",
+  "integrationFolder": "cypress/e2e"
 }
