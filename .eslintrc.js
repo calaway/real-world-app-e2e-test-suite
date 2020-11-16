@@ -4,16 +4,11 @@ module.exports = {
     'cypress/globals': true,
     es2021: true,
   },
-  extends: [
-    'airbnb-base',
-  ],
+  extends: ['airbnb-base'],
   parserOptions: {
     ecmaVersion: 12,
     sourceType: 'module',
   },
-  plugins: [
-    'eslint-plugin-cypress',
-  ],
-  rules: {
-  },
+  plugins: ['eslint-plugin-cypress', 'eslint-config-prettier'],
+  rules: {},
 };
