@@ -4,6 +4,7 @@
   "description": "End-to-end acceptance test suite for any Real World App",
   "scripts": {
     "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
